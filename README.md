@@ -1,6 +1,12 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+<<<<<<< HEAD
 
+=======
+<style>
+
+     
+>>>>>>> 02efbe07cf54cfe0f56b6592266cafc4ae4e724f
 <img src="img/jose almando.jpg"
      alt="José Almando Dominique Yan - imagen"
      style="width: 40%; display: block; margin-left: auto; margin-right: auto; border-radius: 5px; filter: drop-shadow(0 0 20px black)" />
