@@ -1,16 +1,15 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 <style>
-* {
-font-family: 'Fira Code', monospace;}
-</style>
+
+     
 <img src="img/jose almando.jpg"
      alt="José Almando Dominique Yan - imagen"
      style="width: 40%; display: block; margin-left: auto; margin-right: auto; border-radius: 5px; filter: drop-shadow(0 0 20px black)" />
 
 # José Almando Dominique
 ***
-<p style="text-align: justify; font-size: 20px;">
+<p style="text-align: justify; font-size: 20px; font-family: 'Fira Code', monospace;">
 Me llamo José Almando Dominique Yan, tengo 19 años de edad y vivo en República Dominicana. Soy estudiante de desarrollo de software en el Instituto Tecnológico de las Américas (ITLA). Bachiller técnico en desarrollo de software. Me gusta ser social, ya que a través de eso puedo aprender muchas cosas nuevas.  Me considero una persona responsable, ya que la responsabilidad habla mucho de las personas.
 </p>
 ## :computer: Habilidades profesionales
